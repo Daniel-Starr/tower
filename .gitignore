@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments (Conda, venv)
+.venv/
+venv/
+ENV/
+env/
+.conda/
+*.conda
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm settings
+.idea/
+
+# VS Code settings (if used)
+.vscode/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# Logs and local dumps
+*.log
+*.pot
+*.mo
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# My personal generated data or config
+*.xlsx
+*.csv
+*.json
+
+*.zip
+平江电厂/Cbm
+平江电厂/Dev
+平江电厂/Mod
+平江电厂/Phm
+

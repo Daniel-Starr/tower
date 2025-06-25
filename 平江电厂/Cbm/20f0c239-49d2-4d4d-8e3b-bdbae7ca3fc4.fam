@@ -1,0 +1,10 @@
+DESIGNPROJECTNAME=设计阶段工程名称=[N1-N32]
+RUNPROJECTNAME=工程名称(运行)=根据运行名称确定
+LINENAME=线路名称=根据调度名称确定输电线路
+PROJECTNUMBER=工程编号=由建管单位提供
+DESIGNVOLTAGE=设计电压等级=AC500kV
+OWNER=建设单位=无
+ISOPTICALFIBRE=是否有光纤=否
+ISTERMINALLINE=是否终端线=否
+ISFORTRAIN=是否给电铁供电线路=否
+ISSAMETOWER=是否是同杆并架线路=否
